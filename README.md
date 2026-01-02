@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I’m Laura 👋
 
-<!--
-**laurajadz26/laurajadz26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science student at [Your University] with a strong interest in
+software engineering and building real-world applications.
 
-Here are some ideas to get you started:
+## About Me
+- College student focused on developing practical engineering skills
+- Currently building and showcasing personal and academic projects
+- Interested in internships where I can learn, contribute, and grow as a developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- **Languages:** C, Python, JavaScript
+- **Tools & Technologies:** Git, GitHub, VS Code
+- **Concepts:** Data structures, algorithms, systems fundamentals
+
+## Projects
+- **CS Foundations** – Relearning and implementing core computer science concepts through hands-on work  
+  *(In progress – updated regularly)*
+
+## Goals
+- Secure a software engineering internship
+- Build a strong portfolio of clean, well-documented projects
+- Continue growing as a problem-solver and engineer
+
+## Contact
+- LinkedIn: (add when ready)
+- Email: (optional)
