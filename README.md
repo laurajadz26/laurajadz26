@@ -1,6 +1,6 @@
 # Hi, I’m Laura 👋
 
-I’m a Computer Science student at [Your University] with a strong interest in
+I’m a Computer Science student with a strong interest in
 software engineering and building real-world applications.
 
 ## About Me
@@ -9,7 +9,7 @@ software engineering and building real-world applications.
 - Interested in internships where I can learn, contribute, and grow as a developer
 
 ## Technical Skills
-- **Languages:** C, Python, JavaScript
+- **Languages:** C, Python, JavaScript, SQL
 - **Tools & Technologies:** Git, GitHub, VS Code
 - **Concepts:** Data structures, algorithms, systems fundamentals
 
@@ -24,4 +24,4 @@ software engineering and building real-world applications.
 
 ## Contact
 - LinkedIn: (add when ready)
-- Email: (optional)
+- Email: lrjaadz@gmail.com
