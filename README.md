@@ -14,8 +14,19 @@ software engineering and building real-world applications.
 - **Concepts:** Data structures, algorithms, systems fundamentals
 
 ## Projects
-- **CS Foundations** – Relearning and implementing core computer science concepts through hands-on work  
-  *(In progress – updated regularly)*
+
+### Stock Sentiment Predictor
+Machine learning and NLP project that analyzes real-time Amazon news headlines and compares sentiment scores against stock price movement.
+
+Features:
+- Pulls live news data from Google News RSS feeds
+- Performs sentiment analysis using TextBlob
+- Compares sentiment against historical stock returns
+- Generates prediction accuracy metrics
+- Visualizes sentiment vs. stock movement with matplotlib
+
+Technologies:
+Python, pandas, scikit-learn, matplotlib, yfinance, TextBlob)*
 
 ## Goals
 - Secure a software engineering internship
