@@ -28,6 +28,8 @@ Features:
 Technologies:
 Python, pandas, scikit-learn, matplotlib, yfinance, TextBlob)*
 
+[View on GitHub]((https://github.com/laurajadz26/event-meeting-manager)](https://github.com/laurajadz26/stock-sentiment-predictor))
+
 ### Event Registration & Meeting Manager
 
 Python command-line application for registering event guests and scheduling meetings, inspired by my experience working at South Florida boat shows.
@@ -43,6 +45,8 @@ Features:
 
 Technologies: Python, csv, datetime
 
+[View on GitHub]((https://github.com/laurajadz26/event-meeting-manager))
+
 ### Pathfinding Visualizer
 
 Interactive web application that visualizes BFS and Dijkstra’s algorithm, showing how shortest paths differ from minimum-cost routes.
@@ -56,7 +60,7 @@ Features:
 
 Technologies: JavaScript, HTML, CSS, GitHub Pages
 
-[Try Live Demo](https://laurajadz26.github.io/pathfinding-visualizer/)
+[View on GitHub](https://github.com/laurajadz26/pathfinding-visualizer) | [Try Live Demo](https://laurajadz26.github.io/pathfinding-visualizer/) 
 
 
 ## Goals
