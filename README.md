@@ -50,5 +50,5 @@ Technologies: Python, csv, datetime
 - Continue growing as a problem-solver and engineer
 
 ## Contact
-- LinkedIn: (add when ready)
+- LinkedIn: www.linkedin.com/in/laurabjadzinsky
 - Email: lrjaadz@gmail.com
