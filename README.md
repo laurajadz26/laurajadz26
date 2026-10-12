@@ -28,6 +28,22 @@ Features:
 Technologies:
 Python, pandas, scikit-learn, matplotlib, yfinance, TextBlob)*
 
+### Event Registration & Meeting Manager
+
+Python command-line application for registering event guests and scheduling meetings, inspired by my experience working at South Florida boat shows.
+
+Features:
+
+- Registers guests with their name, email, and preferred language
+- Validates guest details and prevents duplicate email registrations
+- Schedules meetings for registered guests with date and time validation
+- Prevents overlapping bookings for guests, representatives, and rooms
+- Allows back-to-back meetings and displays schedules in chronological order
+- Saves guest and meeting records locally in CSV files
+
+Technologies: Python, csv, datetime
+
+
 ## Goals
 - Secure a software engineering internship
 - Build a strong portfolio of clean, well-documented projects
