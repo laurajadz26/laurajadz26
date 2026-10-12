@@ -43,6 +43,21 @@ Features:
 
 Technologies: Python, csv, datetime
 
+### Pathfinding Visualizer
+
+Interactive web application that visualizes BFS and Dijkstra’s algorithm, showing how shortest paths differ from minimum-cost routes.
+
+Features:
+- Animates explored cells and highlights the final path
+- Lets users create walls and weighted terrain on a 300-cell grid
+- Uses BFS to find the fewest moves and Dijkstra to find the lowest total cost
+- Displays path length, total cost, and messages when no route exists
+- Includes a Clear Grid button to reset the board
+
+Technologies: JavaScript, HTML, CSS, GitHub Pages
+
+[Try Live Demo](https://laurajadz26.github.io/pathfinding-visualizer/)
+
 
 ## Goals
 - Secure a software engineering internship
