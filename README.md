@@ -28,7 +28,7 @@ Features:
 Technologies:
 Python, pandas, scikit-learn, matplotlib, yfinance, TextBlob)*
 
-[View on GitHub]((https://github.com/laurajadz26/event-meeting-manager)](https://github.com/laurajadz26/stock-sentiment-predictor))
+[View on GitHub](https://github.com/laurajadz26/stock-sentiment-predictor)
 
 ### Event Registration & Meeting Manager
 
@@ -45,7 +45,7 @@ Features:
 
 Technologies: Python, csv, datetime
 
-[View on GitHub]((https://github.com/laurajadz26/event-meeting-manager))
+[View on GitHub](https://github.com/laurajadz26/event-meeting-manager)
 
 ### Pathfinding Visualizer
 
